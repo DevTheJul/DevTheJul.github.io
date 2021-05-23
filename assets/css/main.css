@@ -1,6 +1,16 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 @import url(https://fonts.googleapis.com/css?family=Nunito+Sans);
 @import url(https://fonts.googleapis.com/css?family=Rubik);
+luft 
+{
+    font-size: 70%;
+    color: #000FFF;
+}
+Discord
+{
+    font-size: 100%;
+    color: #5865F2;
+}
 
 html {
     line-height: 1.15;
